@@ -1,2 +1,2 @@
 # ETEC.AB
-Nesse programa vou exibir o nome da minha escola
+Nesse programa com C# vou exibir o nomeu da minha escola, para aulas da ETEC
